@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TweetsMasterViewController : UITableViewController
+@class TweetController;
 
+@interface TweetsMasterViewController : UITableViewController
+@property (strong, nonatomic) TweetController* tweetController;
 @end

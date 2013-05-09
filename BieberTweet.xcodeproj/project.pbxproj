@@ -19,6 +19,8 @@
 		BA613579173B25FA00DC6F80 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA613577173B25FA00DC6F80 /* MainStoryboard.storyboard */; };
 		BA61357C173B25FA00DC6F80 /* TweetsMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA61357B173B25FA00DC6F80 /* TweetsMasterViewController.m */; };
 		BA61357F173B25FA00DC6F80 /* TweetsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA61357E173B25FA00DC6F80 /* TweetsDetailViewController.m */; };
+		BA613587173B26F100DC6F80 /* Tweets.m in Sources */ = {isa = PBXBuildFile; fileRef = BA613586173B26F100DC6F80 /* Tweets.m */; };
+		BA61358A173B2A1800DC6F80 /* TweetController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA613589173B2A1800DC6F80 /* TweetController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +42,10 @@
 		BA61357B173B25FA00DC6F80 /* TweetsMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TweetsMasterViewController.m; sourceTree = "<group>"; };
 		BA61357D173B25FA00DC6F80 /* TweetsDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TweetsDetailViewController.h; sourceTree = "<group>"; };
 		BA61357E173B25FA00DC6F80 /* TweetsDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TweetsDetailViewController.m; sourceTree = "<group>"; };
+		BA613585173B26F100DC6F80 /* Tweets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tweets.h; sourceTree = "<group>"; };
+		BA613586173B26F100DC6F80 /* Tweets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Tweets.m; sourceTree = "<group>"; };
+		BA613588173B2A1800DC6F80 /* TweetController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TweetController.h; sourceTree = "<group>"; };
+		BA613589173B2A1800DC6F80 /* TweetController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TweetController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +93,10 @@
 			isa = PBXGroup;
 			children = (
 				BA61356E173B25FA00DC6F80 /* TweetsAppDelegate.h */,
+				BA613585173B26F100DC6F80 /* Tweets.h */,
+				BA613586173B26F100DC6F80 /* Tweets.m */,
+				BA613588173B2A1800DC6F80 /* TweetController.h */,
+				BA613589173B2A1800DC6F80 /* TweetController.m */,
 				BA61356F173B25FA00DC6F80 /* TweetsAppDelegate.m */,
 				BA613577173B25FA00DC6F80 /* MainStoryboard.storyboard */,
 				BA61357A173B25FA00DC6F80 /* TweetsMasterViewController.h */,
@@ -183,6 +193,8 @@
 				BA613570173B25FA00DC6F80 /* TweetsAppDelegate.m in Sources */,
 				BA61357C173B25FA00DC6F80 /* TweetsMasterViewController.m in Sources */,
 				BA61357F173B25FA00DC6F80 /* TweetsDetailViewController.m in Sources */,
+				BA613587173B26F100DC6F80 /* Tweets.m in Sources */,
+				BA61358A173B2A1800DC6F80 /* TweetController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
