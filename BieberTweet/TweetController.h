@@ -15,5 +15,7 @@
 -(NSUInteger) countofList;
 -(Tweets*) objectInListAtIndex:(NSUInteger) index;
 -(void) addTweetwithTweet:(Tweets*)tweet;
+-(void) removeTweetfromEnd;
+-(void) addTweetatIndex:(Tweets*)tweet index:(NSUInteger)index;
 
 @end

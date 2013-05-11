@@ -17,7 +17,8 @@
         _handle = handle;
         _caption = caption;
         _url = url;
-        _date = date;
+        _dateFull = date;
+        _date = [date substringToIndex:17];
         _pic = nil;
         return self;
     }

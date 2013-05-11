@@ -1,0 +1,453 @@
+TBieberTweet
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Info.plist BieberTweet/BieberTweet-Info.plist
+cProcessPCH /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch.pth BieberTweet/BieberTweet-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsMasterViewController.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/main.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsAppDelegate.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsDetailViewController.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/Tweets.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/Tweets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetController.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/PictureDownloader.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/PictureDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/BieberTweet normal i386
+cGenerateDSYMFile /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app.dSYM /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/BieberTweet
+cCopyStringsFile /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/en.lproj/InfoPlist.strings BieberTweet/en.lproj/InfoPlist.strings
+cCpResource BieberTweet/Default.png build/Debug-iphonesimulator/BieberTweet.app/Default.png
+cCpResource BieberTweet/Default-568h@2x.png build/Debug-iphonesimulator/BieberTweet.app/Default-568h@2x.png
+cCpResource BieberTweet/Default@2x.png build/Debug-iphonesimulator/BieberTweet.app/Default@2x.png
+cCompileStoryboard /Users/dx086/workspace/BieberTweet-master/BieberTweet/en.lproj/MainStoryboard.storyboard
+cTouch /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512BF2250000000000228FE0
+t1361834533
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512BF22500000000003DDFA0
+t1361834533
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512BF22500000000000015F7
+t1361834533
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512BF2280000000000000E8D
+t1361834536
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512BF22A0000000000AB6230
+t1361834538
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000512BF2320000000000001B73
+t1361834546
+s7027
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/BieberTweet-Prefix.pch
+c00000000518B6E520000000000000145
+t1368092242
+s325
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/Default-568h@2x.png
+c00000000518B6E5200000000000048A2
+t1368092242
+s18594
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/Default.png
+c00000000518C1E2A0000000000000695
+t1368137258
+s1685
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/Default@2x.png
+c00000000518B6E520000000000003EEB
+t1368092242
+s16107
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/PictureDownloader.h
+c00000000518C12810000000000000189
+t1368134273
+s393
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/PictureDownloader.m
+c00000000518C14A700000000000005A4
+t1368134823
+s1444
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetController.h
+c00000000518B6E5200000000000001A7
+t1368092242
+s423
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetController.m
+c00000000518B6E5200000000000003F6
+t1368092242
+s1014
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/Tweets.h
+c00000000518B6E52000000000000026A
+t1368092242
+s618
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/Tweets.m
+c00000000518B6E52000000000000022F
+t1368092242
+s559
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsAppDelegate.h
+c00000000518B6E520000000000000128
+t1368092242
+s296
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsAppDelegate.m
+c00000000518B6E5200000000000007F0
+t1368092242
+s2032
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsDetailViewController.h
+c00000000518B6E52000000000000016A
+t1368092242
+s362
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsDetailViewController.m
+c00000000518B6E5200000000000003FD
+t1368092242
+s1021
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.h
+c00000000518B6E520000000000000153
+t1368092242
+s339
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m
+c00000000518C21410000000000001D61
+t1368138049
+s7521
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/en.lproj/InfoPlist.strings
+c00000000518B6E52000000000000002D
+t1368092242
+s45
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/en.lproj/MainStoryboard.storyboard
+c00000000518C20890000000000002741
+t1368137865
+s10049
+
+N/Users/dx086/workspace/BieberTweet-master/BieberTweet/main.m
+c00000000518B6E520000000000000163
+t1368092242
+s355
+
+N/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/BieberTweet.LinkFileList
+c00000000518C19DF00000000000003F6
+t1368136159
+s1014
+
+N/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/PictureDownloader.o
+t1368136159
+s20728
+
+N/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetController.o
+t1368136159
+s14088
+
+N/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/Tweets.o
+t1368136159
+s16612
+
+N/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsAppDelegate.o
+t1368136159
+s86732
+
+N/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsDetailViewController.o
+t1368136159
+s72996
+
+N/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsMasterViewController.o
+t1368137651
+s101240
+
+N/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/main.o
+t1368136159
+s3300
+
+N/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app
+t1368137652
+s306
+
+N/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app.dSYM
+t1368137651
+s102
+
+N/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/BieberTweet
+t1368137651
+s57376
+
+N/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Default-568h@2x.png
+t1368136160
+s18594
+
+N/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Default.png
+t1368137376
+s1685
+
+N/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Default@2x.png
+t1368136160
+s16107
+
+N/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Info.plist
+t1368136159
+s881
+
+N/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/PkgInfo
+t1368136159
+s8
+
+N/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/en.lproj/InfoPlist.strings
+t1368136160
+s42
+
+N/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/en.lproj/MainStoryboard.storyboardc
+t1368137652
+s272
+
+N/var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch.pth
+t1368136159
+s4678312
+
+NBieberTweet/BieberTweet-Info.plist
+c00000000518B6E52000000000000052B
+t1368092242
+s1323
+
+CBuild AST from /Users/dx086/workspace/BieberTweet-master/BieberTweet/PictureDownloader.m
+r0
+
+CBuild AST from /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetController.m
+r0
+
+CBuild AST from /Users/dx086/workspace/BieberTweet-master/BieberTweet/Tweets.m
+r0
+
+CBuild AST from /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsAppDelegate.m
+r0
+
+CBuild AST from /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsDetailViewController.m
+r0
+
+CBuild AST from /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m
+r0
+
+CBuild AST from /Users/dx086/workspace/BieberTweet-master/BieberTweet/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1b2d77c3583cb741^d6e277c3583cb741^---0#1#0#--18"Check dependencies36"D778F43F-5D01-4321-9FEA-FA7972E19443-
+
+CCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/PictureDownloader.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/PictureDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389828959.947673
+e389828959.982853
+r1
+xCompileC
+xbuild/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/PictureDownloader.o
+x/Users/dx086/workspace/BieberTweet-master/BieberTweet/PictureDownloader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/dx086/workspace/BieberTweet-master/BieberTweet/PictureDownloader.m5abaf25f513cb741^419cfb5f513cb741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/PictureDownloader.m0000000000000000^3620"CompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/PictureDownloader.o BieberTweet/PictureDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dx086/workspace/BieberTweet-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-generated-files.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-own-target-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-all-target-headers.hmap -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-project-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources/i386 -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources -F/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator -include /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch -MMD -MT dependencies -MF /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/PictureDownloader.d --serialize-diagnostics /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/PictureDownloader.dia -c /Users/dx086/workspace/BieberTweet-master/BieberTweet/PictureDownloader.m -o /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/PictureDownloader.o36"8185EFFA-348E-4B1E-BF2C-38B8CCFE9217-
+
+CCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetController.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389828959.947451
+e389828959.979240
+r1
+xCompileC
+xbuild/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetController.o
+x/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetController.m08aaf25f513cb741^8aaffa5f513cb741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetController.m0000000000000000^3608"CompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetController.o BieberTweet/TweetController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dx086/workspace/BieberTweet-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-generated-files.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-own-target-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-all-target-headers.hmap -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-project-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources/i386 -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources -F/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator -include /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch -MMD -MT dependencies -MF /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetController.d --serialize-diagnostics /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetController.dia -c /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetController.m -o /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetController.o36"8BCF1E16-3B25-441D-BB6D-0B60C8D739C5-
+
+CCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/Tweets.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/Tweets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389828959.942894
+e389828959.973486
+r1
+xCompileC
+xbuild/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/Tweets.o
+x/Users/dx086/workspace/BieberTweet-master/BieberTweet/Tweets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/dx086/workspace/BieberTweet-master/BieberTweet/Tweets.m1382f15f513cb741^4640f95f513cb741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/Tweets.m0000000000000000^3554"CompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/Tweets.o BieberTweet/Tweets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dx086/workspace/BieberTweet-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-generated-files.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-own-target-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-all-target-headers.hmap -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-project-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources/i386 -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources -F/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator -include /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch -MMD -MT dependencies -MF /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/Tweets.d --serialize-diagnostics /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/Tweets.dia -c /Users/dx086/workspace/BieberTweet-master/BieberTweet/Tweets.m -o /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/Tweets.o36"7E080BBC-2CB0-4540-945F-3F10C7F74D1A-
+
+CCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsAppDelegate.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389828959.799192
+e389828959.946299
+r1
+xCompileC
+xbuild/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsAppDelegate.o
+x/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsAppDelegate.m57b5cc5f513cb741^fe47f25f513cb741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsAppDelegate.m0000000000000000^3620"CompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsAppDelegate.o BieberTweet/TweetsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dx086/workspace/BieberTweet-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-generated-files.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-own-target-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-all-target-headers.hmap -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-project-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources/i386 -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources -F/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator -include /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch -MMD -MT dependencies -MF /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsAppDelegate.d --serialize-diagnostics /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsAppDelegate.dia -c /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsAppDelegate.m -o /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsAppDelegate.o36"DB6636B4-36DE-4DD1-BA26-A1E4B5D0B977-
+
+CCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsDetailViewController.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389828959.799983
+e389828959.947158
+r1
+xCompileC
+xbuild/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsDetailViewController.o
+x/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsDetailViewController.mc0eacc5f513cb741^4581f25f513cb741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsDetailViewController.m0000000000000000^3674"CompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsDetailViewController.o BieberTweet/TweetsDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dx086/workspace/BieberTweet-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-generated-files.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-own-target-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-all-target-headers.hmap -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-project-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources/i386 -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources -F/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator -include /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch -MMD -MT dependencies -MF /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsDetailViewController.d --serialize-diagnostics /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsDetailViewController.dia -c /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsDetailViewController.m -o /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsDetailViewController.o36"86076DA1-0C04-4F6A-8EFB-FF73232F519D-
+
+CCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsMasterViewController.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389830851.496153
+e389830851.578304
+r1
+xCompileC
+xbuild/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsMasterViewController.o
+x/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m:204:22: warning: unused variable 'indexPath' [-Wunused-variable]
+o        NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
+o                     ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m5b267fc3583cb741^740c94c3583cb741^-267"/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m:204:22: warning: unused variable 'indexPath' [-Wunused-variable]        NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];                     ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@27"Unused variable 'indexPath'-389830851#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@98"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m0000000000000000^203#21#203#21#7333#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@98"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m0000000000000000^3674"CompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsMasterViewController.o BieberTweet/TweetsMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dx086/workspace/BieberTweet-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-generated-files.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-own-target-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-all-target-headers.hmap -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-project-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources/i386 -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources -F/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator -include /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch -MMD -MT dependencies -MF /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsMasterViewController.d --serialize-diagnostics /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsMasterViewController.dia -c /Users/dx086/workspace/BieberTweet-master/BieberTweet/TweetsMasterViewController.m -o /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/TweetsMasterViewController.o36"99A44B42-5309-460A-8483-07B7A38202B3-
+
+CCompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/main.o /Users/dx086/workspace/BieberTweet-master/BieberTweet/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389828959.793729
+e389828959.941585
+r1
+xCompileC
+xbuild/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/main.o
+x/Users/dx086/workspace/BieberTweet-master/BieberTweet/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/dx086/workspace/BieberTweet-master/BieberTweet/main.m0bb3cc5f513cb741^0a14f15f513cb741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/main.m0000000000000000^3542"CompileC build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/main.o BieberTweet/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dx086/workspace/BieberTweet-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-generated-files.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-own-target-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-all-target-headers.hmap -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-project-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources/i386 -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources -F/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator -include /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch -MMD -MT dependencies -MF /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/main.dia -c /Users/dx086/workspace/BieberTweet-master/BieberTweet/main.m -o /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/main.o36"13D04894-AD7D-4563-AC7D-903DA85C8E8C-
+
+CCompileStoryboard /Users/dx086/workspace/BieberTweet-master/BieberTweet/en.lproj/MainStoryboard.storyboard
+s389830851.646708
+e389830852.379897
+r1
+xCompileStoryboard
+x/Users/dx086/workspace/BieberTweet-master/BieberTweet/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard BieberTweet/en.lproj/MainStoryboard.storyboard999da5c3583cb741^f14b61c4583cb741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/en.lproj/MainStoryboard.storyboard0000000000000000^965"CompileStoryboard BieberTweet/en.lproj/MainStoryboard.storyboard    cd /Users/dx086/workspace/BieberTweet-master    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/en.lproj/MainStoryboard.storyboardc /Users/dx086/workspace/BieberTweet-master/BieberTweet/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"88FE72AD-8423-4820-926D-2031DDEF70DB-
+
+CCopyStringsFile /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/en.lproj/InfoPlist.strings BieberTweet/en.lproj/InfoPlist.strings
+s389828960.155312
+e389828960.175245
+r1
+xCopyStringsFile
+x/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/en.lproj/InfoPlist.strings
+xBieberTweet/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy BieberTweet/en.lproj/InfoPlist.strings51da2760513cb741^59df2c60513cb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/en.lproj/InfoPlist.strings0000000000000000^597"CopyStringsFile build/Debug-iphonesimulator/BieberTweet.app/en.lproj/InfoPlist.strings BieberTweet/en.lproj/InfoPlist.strings    cd /Users/dx086/workspace/BieberTweet-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/en.lproj -- BieberTweet/en.lproj/InfoPlist.strings36"3ADA447A-423E-44D2-9BEF-58FD0400A45B-
+
+CCpResource BieberTweet/Default-568h@2x.png build/Debug-iphonesimulator/BieberTweet.app/Default-568h@2x.png
+s389828960.155537
+e389828960.175132
+r1
+xCpResource
+xBieberTweet/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/BieberTweet.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/BieberTweet.app/Default-568h@2x.pngdee42760513cb741^bedb2c60513cb741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Default-568h@2x.png000000000080d041^629"CpResource "BieberTweet/Default-568h@2x.png" "build/Debug-iphonesimulator/BieberTweet.app/Default-568h@2x.png"    cd /Users/dx086/workspace/BieberTweet-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/dx086/workspace/BieberTweet-master/BieberTweet/Default-568h@2x.png" /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app36"8D5CE800-6206-4BF8-8EA3-D071B8A3CCCC-
+
+CCpResource BieberTweet/Default.png build/Debug-iphonesimulator/BieberTweet.app/Default.png
+s389830176.792263
+e389830176.794445
+r1
+xCpResource
+xBieberTweet/Default.png
+xbuild/Debug-iphonesimulator/BieberTweet.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/BieberTweet.app/Default.png0de3ca20563cb741^b681cb20563cb741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Default.png0000000000000000^599"CpResource BieberTweet/Default.png build/Debug-iphonesimulator/BieberTweet.app/Default.png    cd /Users/dx086/workspace/BieberTweet-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dx086/workspace/BieberTweet-master/BieberTweet/Default.png /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app36"6505A9F9-D745-45FC-B65B-10C74B28C7F3-
+
+CCpResource BieberTweet/Default@2x.png build/Debug-iphonesimulator/BieberTweet.app/Default@2x.png
+s389828960.155326
+e389828960.174715
+r1
+xCpResource
+xBieberTweet/Default@2x.png
+xbuild/Debug-iphonesimulator/BieberTweet.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/BieberTweet.app/Default@2x.pngfdd92760513cb741^52ba2c60513cb741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Default@2x.png000000000080d041^614"CpResource "BieberTweet/Default@2x.png" "build/Debug-iphonesimulator/BieberTweet.app/Default@2x.png"    cd /Users/dx086/workspace/BieberTweet-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/dx086/workspace/BieberTweet-master/BieberTweet/Default@2x.png" /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app36"E24A1E04-62B2-4EF1-B0E4-F4C36506BDA8-
+
+CGenerateDSYMFile /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app.dSYM /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/BieberTweet
+s389830851.617747
+e389830851.637271
+r1
+xGenerateDSYMFile
+x/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app.dSYM
+x/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/BieberTweet
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Generate /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app.dSYM76349ec3583cb741^b724a3c3583cb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app.dSYM/0000000000000000^658"GenerateDSYMFile build/Debug-iphonesimulator/BieberTweet.app.dSYM build/Debug-iphonesimulator/BieberTweet.app/BieberTweet    cd /Users/dx086/workspace/BieberTweet-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/BieberTweet -o /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app.dSYM36"E94DBA50-5511-40F7-B330-2A4E703468B3-
+
+CLd /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/BieberTweet normal i386
+s389830851.584912
+e389830851.610640
+r1
+xLd
+x/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/BieberTweet
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/BieberTweete1ce95c3583cb741^5d539cc3583cb741^---0#0#0#--1190"Ld build/Debug-iphonesimulator/BieberTweet.app/BieberTweet normal i386    cd /Users/dx086/workspace/BieberTweet-master    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator -F/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator -filelist /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/Objects-normal/i386/BieberTweet.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/BieberTweet36"B6A7C972-F908-4906-BA4D-ECF9333B1154-
+
+CProcessInfoPlistFile /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Info.plist BieberTweet/BieberTweet-Info.plist
+s389828959.415094
+e389828959.418833
+r1
+xProcessInfoPlistFile
+x/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Info.plist
+xBieberTweet/BieberTweet-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process BieberTweet/BieberTweet-Info.plistd55c6a5f513cb741^0d386b5f513cb741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/BieberTweet-Info.plist0000000000000000^687"ProcessInfoPlistFile build/Debug-iphonesimulator/BieberTweet.app/Info.plist BieberTweet/BieberTweet-Info.plist    cd /Users/dx086/workspace/BieberTweet-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BieberTweet/BieberTweet-Info.plist -genpkginfo /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app/Info.plist36"47181FC4-BFD9-4F12-9C70-C4BAC66D9D66-
+
+CProcessPCH /Users/dx086/Library/Developer/Xcode/DerivedData/BieberTweet-dmdowurftnsuzugrlfzeyeklmpwi/Index/PrecompiledHeaders/BieberTweet-Prefix-eqygvwihpujnieeupnlsgtknddau_ast/BieberTweet-Prefix.pch.pth BieberTweet/BieberTweet-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch.pth BieberTweet/BieberTweet-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389828959.426889
+e389828959.786903
+r1
+xProcessPCH
+x/var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch.pth
+xBieberTweet/BieberTweet-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile BieberTweet/BieberTweet-Prefix.pch15726d5f513cb741^fca5c95f513cb741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/dx086/workspace/BieberTweet-master/BieberTweet/BieberTweet-Prefix.pch0000000000000000^3591"ProcessPCH /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch.pth BieberTweet/BieberTweet-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dx086/workspace/BieberTweet-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-generated-files.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-own-target-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-all-target-headers.hmap -iquote /Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/BieberTweet-project-headers.hmap -I/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources/i386 -I/Users/dx086/workspace/BieberTweet-master/build/BieberTweet.build/Debug-iphonesimulator/BieberTweet.build/DerivedSources -F/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch.dia -c /Users/dx086/workspace/BieberTweet-master/BieberTweet/BieberTweet-Prefix.pch -o /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/l0/mrcrf_156wg05smxxypnnhr00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BieberTweet-Prefix-asoxhnbkavovxkehhfscvtfaoyik/BieberTweet-Prefix.pch.d36"B048D9F3-DF00-488B-9D60-878A3C5331AC-
+
+CTouch /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app
+s389830852.388245
+e389830852.392691
+r1
+xTouch
+x/Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Touch /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app607263c4583cb741^ca8764c4583cb741^---0#0#0#--402"Touch build/Debug-iphonesimulator/BieberTweet.app    cd /Users/dx086/workspace/BieberTweet-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dx086/workspace/BieberTweet-master/build/Debug-iphonesimulator/BieberTweet.app36"4147AFEF-F193-4C10-94F3-164D96D20D34-
+

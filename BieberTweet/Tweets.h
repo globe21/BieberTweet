@@ -15,6 +15,7 @@
 @property (nonatomic, copy) NSString* url;
 @property (nonatomic, copy) UIImage* pic;
 @property (nonatomic, copy) NSString* date;
+@property (nonatomic, copy) NSString* dateFull;
 
 - (id)initWithUsername:(NSString*)username  handle:(NSString*)handle caption:(NSString*) caption url:(NSString*)url date:(NSString*) date;
 

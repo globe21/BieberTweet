@@ -38,11 +38,22 @@
 }
 
 -(Tweets*) objectInListAtIndex:(NSUInteger)index{
-    return [self.masterTweetList objectAtIndex:index];
+    if (index < [self.masterTweetList count])
+        return [self.masterTweetList objectAtIndex:index];
+    else
+        return nil;
 }
 
 -(void) addTweetwithTweet:(Tweets *)tweet{
     [self.masterTweetList addObject:tweet];
+}
+
+-(void) removeTweetfromEnd{
+    [self.masterTweetList removeLastObject];
+}
+
+-(void) addTweetatIndex:(Tweets*) tweet index:(NSUInteger)index{
+    [self.masterTweetList insertObject:tweet atIndex:index];
 }
 
 

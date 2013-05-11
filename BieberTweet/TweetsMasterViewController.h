@@ -12,4 +12,5 @@
 
 @interface TweetsMasterViewController : UITableViewController
 @property (strong, nonatomic) TweetController* tweetController;
+@property (strong, nonatomic) NSString* refreshURL;
 @end
