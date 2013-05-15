@@ -99,7 +99,7 @@
 //            [self.tweetController addTweetwithTweet:[self.tweetController objectInListAtIndex:j]];
 //        }
         if ([self.tweetController countofList] >200){
-            for (int i = 0; i < ([self.tweetController countofList]-25); i++){
+            for (int i = 0; i < ([self.tweetController countofList]-200); i++){
                 [self.tweetController removeTweetfromEnd];
             }
         }

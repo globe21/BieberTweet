@@ -30,16 +30,11 @@
         [self performSelectorOnMainThread:@selector(didFinishLoading:) withObject:data waitUntilDone:YES];
         
     });
-    
-    NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:self.tweet.url]];
-    NSURLConnection *conn = [[NSURLConnection alloc] initWithRequest:request delegate:self];
-    self.imageConnection = conn;
 }
 
 - (void)cancelDownload{
     [self.imageConnection cancel];
     self.imageConnection = nil;
-    self.activeDownload = nil;
 }
 
 
@@ -53,8 +48,8 @@
     self.imageConnection = nil;
 }
 
--(void) didFinishLoading:(NSURLConnection *) connection{
-    UIImage *image = [[UIImage alloc] initWithData:self.activeDownload];
+-(void) didFinishLoading:(NSData*)responseData{
+    UIImage *image = [[UIImage alloc] initWithData:responseData];
     self.tweet.pic = image;
     self.activeDownload = nil;
     self.imageConnection = nil;
